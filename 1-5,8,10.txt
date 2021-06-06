@@ -1,0 +1,9 @@
+Filename: 1-5,8,10.txt
+
+People: 1, Probability: 0
+People: 2, Probability: 0.00273972602739724902
+People: 3, Probability: 0.008204165884781351237
+People: 4, Probability: 0.01635591246655023818
+People: 5, Probability: 0.02713557369979347893
+People: 8, Probability: 0.07433529235166904617
+People: 10, Probability: 0.1169481777110776965

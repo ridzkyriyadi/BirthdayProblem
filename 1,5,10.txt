@@ -1,0 +1,5 @@
+Filename: 1,5,10.txt
+
+People: 1, Probability: 0
+People: 5, Probability: 0.02713557369979347893
+People: 10, Probability: 0.1169481777110776965
